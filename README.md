@@ -14,3 +14,5 @@ Make *uOttawa* Blackboard a bit nicer. A cleaned up web view of Blackboard, with
 4. Go to Window > Userstyles and add a new userstyle, copying and pasting the contents of `userstyle.css`. Use `*blackboard.com*` as the pattern.
 5. Under Blackboard > Preferences > Security, ensure that Cookie Storage is separate from Safari.
 6. Enjoy!
+
+![Cleanboard](cleanboard.png)
