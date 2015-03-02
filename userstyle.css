@@ -1,0 +1,86 @@
+html, .detail-heading h2 { font-family: 'Helvetica Nueue', Helvetica, Arial, sans-serif !important; }
+
+.detail-heading h2 {
+    font-size: 100% !important;
+}
+
+body {
+    background: white !important;
+    min-width: 0 !important;
+}
+
+.stream-detail-page {
+    margin: 5px !important;
+}
+
+#globalNavPageNavArea, #topFrame, .bgBanner {
+    height: 52px !important;
+}
+
+#globalNavPageNavArea, #topFrame, .bgBanner {
+    background: #731025 !important;
+}
+
+.collapsible, .container, .containerPortal {
+    padding: 0 !important;
+}
+
+img.bannerImage {
+    max-height:35px;
+}
+
+.portlet, .collapsible {
+    width: 100%;
+    border: none !important;
+    margin: 0;
+    padding: 0;
+    box-shadow: none !important;
+}
+
+#content_listContainer {
+    width: 100%;
+    padding: 0;
+    margin: 0 !important;
+}
+
+.contentList {
+    margin: 0 !important;
+    padding: 0;
+}
+
+.container, .detail-heading { padding: 0 !important; }
+
+/** Notes **/
+
+.stream_pages div.left_stream_wrapper {
+    padding: 0 !important;
+}
+
+.stream_item {
+    padding: 20px !important;
+    font-size: 90% !important;
+}
+
+.stream_details {
+    font-size: 13px !important;
+}
+
+.stream_datestamp+.stream_context { /*margin-right: 0 !important;*/ }
+
+.mybb.gradeTableNew #grades_wrapper { margin-top: 60px; }
+
+.contentBox { border: none !important; box-shadow: none !important; }
+
+.eud-avatar, .stream_context_bottom, #streamDetailHeaderRight .context, #streamDetailHeaderRight .timestamp, .customBanner, .copyrightDetailContents, .newCopyright, .portlet > h2, #anonymous_element_7, .edit_controls, .actionBarMicro, #breadcrumbs, #quick_links_wrap, div[id$='_267_1'], #column0, #column2, .tabWrapper-right, .paneTabs, .vtbegenerated {
+    display: none !important;
+}
+
+#column1 {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#puller a::after {
+    top: 160px !important;
+}
